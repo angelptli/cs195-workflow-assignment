@@ -3,6 +3,6 @@
 |-----------|
 
   * make food for the week
-  * finish CS 197V homework
+  * finish CS 195 homework
   * say something nice to someone
   * smell a flower
